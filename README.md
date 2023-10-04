@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MARADIAI
-- 👀 I’m interested in JAVA,C#,VB,SQL,Oracle
+- 👀 I’m interested in JAVA,C#,VB,SQL,Oracle ,Python
 - 🌱 I’m currently learning AI/ML for Data
 - 💞️ I’m looking to collaborate on Stack Overflow
 - 📫 How to reach me , bahraini27@gmail.com
